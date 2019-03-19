@@ -8,7 +8,7 @@ https://medium.com/@khushbu.parakh/create-instances-in-google-cloud-with-private
 - Zone: You want to create your instance in
 - Machine Type: Standard machine type with 4 vCPUs and 15 GB of memory. (n1-standard4)
 - Instance-name: Name of your instance
-- Before running the script edit the network details in script. To whatever network you have in your cloud. 
+ Before running the script edit the network details in script. To whatever network you have in your cloud. 
 Please make sure you do pip install 
 
 - google-api-python-client
