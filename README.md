@@ -12,7 +12,7 @@ https://medium.com/@khushbu.parakh/create-instances-in-google-cloud-with-private
 Before running the script edit the network details in script. To whatever network you have in your cloud. 
 Please make sure you do 
 
-* pip install 
+ pip install 
 
 - google-api-python-client
 - oauth2client
