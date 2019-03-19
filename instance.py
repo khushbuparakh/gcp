@@ -17,7 +17,6 @@ import traceback
 import uuid
 import datetime
 import time
-from avi.util import gcp_utils
 
 # [START storage_upload_file]
 from google.cloud import storage
