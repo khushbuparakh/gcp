@@ -31,9 +31,6 @@ def parse_arguments():
     parser = argparse.ArgumentParser(
         description='Setup environment')
     parser.add_argument(
-        '--testbed-name',
-        help='GCP testbed path', default=None)
-    parser.add_argument(
         '--bucket_name',
         help='GCP bucket name', default=None)
     parser.add_argument(
