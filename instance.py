@@ -24,7 +24,7 @@ from google.cloud import storage
 
 
 log = logging.getLogger('setup_env_gcp')
-GCP_KEYFILE='/home/aviuser/.ssh/google_compute_engine'
+GCP_KEYFILE='/home/user/.ssh/google_compute_engine'
 
 
 
